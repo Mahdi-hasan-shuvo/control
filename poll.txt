@@ -1,1 +1,29 @@
-24_LB4E9DN1010019045AMD641010019045SP0AMD64Intel646783GenuineIntel++M4D1++
+{
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true, //auto complite bracket
+    "typescript.suggest.autoImports": true,
+    "workbench.colorTheme": "Default High Contrast",
+
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#000000",
+        "tab.hoverBackground": "#000000",
+        "editor.background": "#000000",
+
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+        "*.exe": "default",
+        "*.dll": "default",
+        "{git,gitlens}:/**/*.{md,csv,svg}": "default"
+    },
+    "workbench.editor.enablePreview": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "github.copilot.editor.enableAutoCompletions": true,
+}
