@@ -26,4 +26,6 @@
     "workbench.editor.enablePreview": false,
     "security.workspace.trust.untrustedFiles": "open",
     "github.copilot.editor.enableAutoCompletions": true,
+    "claudeCode.preferredLocation": "panel",
+    "chat.mcp.gallery.enabled": true,
 }
